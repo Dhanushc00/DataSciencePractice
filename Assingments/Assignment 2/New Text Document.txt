@@ -1,0 +1,21 @@
+ASSIGNMENT - 2
+Read only time, geo and value columns
+Consider “:” as missing
+Fill the missing data appropriately
+How many 
+Select all rows where Value is greater than 5 and year is 2011
+Display max value of all columns
+Create a new column val_sq  with square of the value column in it
+Delete newly added column
+ Add a new value 2000,  5.00, 'a'  to the end of Dataframe
+Sort the dataframe in the descending order of values
+show the mean of the values for each country over all the years
+Change DataFrame to country names as the index, while the columns will be the years starting from 2006 and the values will be the previous 'Value' column.
+Read the following file https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00053.tsv.gz contains employment rates yearwise
+Unzip in the jupyter notebook itself and read the tsv file inside
+From the year columns delete the alphabets from the values and make it float
+Genderwise  employement rate for year 2016
+Which year the employment rate is higher for female
+Rename the column geo\time to geotime
+Sum of unemployment rate for male for EU27_2020 in year 2010
+Convert the dataframe with the following columns geotime, year, unemployment rate
